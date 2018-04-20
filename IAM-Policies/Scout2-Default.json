@@ -33,6 +33,8 @@
                 "elasticloadbalancing:DescribeLoadBalancerAttributes",
                 "elasticloadbalancing:DescribeLoadBalancers",
                 "elasticloadbalancing:DescribeSSLPolicies",
+                "elasticloadbalancing:DescribeListeners",
+                "elasticloadbalancing:DescribeLoadBalancerPolicies",
                 "elasticmapreduce:DescribeCluster",
                 "elasticmapreduce:ListClusters",
                 "iam:GenerateCredentialReport",
